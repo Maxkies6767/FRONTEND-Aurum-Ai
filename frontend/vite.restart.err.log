@@ -1,0 +1,4 @@
+[tanstack-router] These exports from "E:/Machine_Learing_SMC_PRO_MAX/frontend/src/routes/train.tsx" will not be code-split and will increase your bundle size:
+- TrainPage
+For the best optimization, these items should either have their export statements removed, or be imported from another location that is not a route file.
+[BABEL] Note: The code generator has deoptimised the styling of E:\Machine_Learing_SMC_PRO_MAX\frontend\src\routes\train.tsx as it exceeds the max of 500KB.
